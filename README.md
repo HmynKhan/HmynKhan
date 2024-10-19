@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Humayoun saeed👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/HmynKhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/HmynKhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 <!--</p>
 <h1 align="center"> Connect with me: </h1>
